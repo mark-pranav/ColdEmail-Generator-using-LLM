@@ -1,2 +1,4 @@
 langchain_community
 langchain_groq
+langchain
+chromadb
