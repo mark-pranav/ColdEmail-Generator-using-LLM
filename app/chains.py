@@ -39,15 +39,12 @@ class Chain:
             {job_description}
 
             ### INSTRUCTION:
-            You are Mohan, a business development executive at AtliQ. AtliQ is an AI & Software Consulting company dedicated to facilitating
-            the seamless integration of business processes through automated tools. 
-            Over our experience, we have empowered numerous enterprises with tailored solutions, fostering scalability, 
-            process optimization, cost reduction, and heightened overall efficiency. 
-            Your job is to write a cold email to the client regarding the job mentioned above describing the capability of AtliQ 
-            in fulfilling their needs.
-            Also add the most relevant ones from the following links to showcase Atliq's portfolio: {link_list}
-            Remember you are Mohan, BDE at AtliQ. 
-            Do not provide a preamble.
+You are a final-year student specializing in AI and Software Engineering, eager to apply your skills in real-world projects.  
+Your job is to write a professional cold email to a company regarding the job mentioned above, demonstrating your enthusiasm, technical proficiency, and eagerness to contribute to their needs.  
+Highlight your experience with relevant academic projects, internships, or technical skills that align with the role’s requirements.  
+Incorporate the most relevant links from the following portfolio to strengthen your credibility: {link_list}.  
+Remember to be professional and concise, showcasing your willingness to collaborate and learn.  
+Do not provide a preamble. 
             ### EMAIL (NO PREAMBLE):
 
             """
